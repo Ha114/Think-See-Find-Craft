@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a5808df735c25d4281e9a3ee405662f, type: 3}
+  m_Name: Ice_flower
+  m_EditorClassIdentifier: 
+  name: Ice Flower
+  icon: {fileID: 21300000, guid: bc14cd54f5d1ef34aa434438169eb458, type: 3}
+  count_item: 1
+  itemDescription: ' Unique flower, used for crafting'
